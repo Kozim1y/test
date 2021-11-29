@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb4c6044.chunk.css",
+    "main.js": "/static/js/main.22c09713.chunk.js",
+    "main.js.map": "/static/js/main.22c09713.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c5b5319e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c5b5319e.js.map",
+    "static/js/2.f0ad76a1.chunk.js": "/static/js/2.f0ad76a1.chunk.js",
+    "static/js/2.f0ad76a1.chunk.js.map": "/static/js/2.f0ad76a1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cb4c6044.chunk.css.map": "/static/css/main.cb4c6044.chunk.css.map",
+    "static/js/2.f0ad76a1.chunk.js.LICENSE.txt": "/static/js/2.f0ad76a1.chunk.js.LICENSE.txt",
+    "static/media/clock.bc5a4530.svg": "/static/media/clock.bc5a4530.svg",
+    "static/media/favarite.bbbfaf49.svg": "/static/media/favarite.bbbfaf49.svg",
+    "static/media/game.f5249e65.svg": "/static/media/game.f5249e65.svg",
+    "static/media/history.f7ee2392.svg": "/static/media/history.f7ee2392.svg",
+    "static/media/home.122f2303.svg": "/static/media/home.122f2303.svg",
+    "static/media/library.8ea77692.svg": "/static/media/library.8ea77692.svg",
+    "static/media/liked.09ce125f.svg": "/static/media/liked.09ce125f.svg",
+    "static/media/music.0d1bce23.svg": "/static/media/music.0d1bce23.svg",
+    "static/media/show.a9b6520f.svg": "/static/media/show.a9b6520f.svg",
+    "static/media/subscriptions.8626d17c.svg": "/static/media/subscriptions.8626d17c.svg",
+    "static/media/trending.7d3a2abf.svg": "/static/media/trending.7d3a2abf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5b5319e.js",
+    "static/js/2.f0ad76a1.chunk.js",
+    "static/css/main.cb4c6044.chunk.css",
+    "static/js/main.22c09713.chunk.js"
+  ]
+}
